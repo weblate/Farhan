@@ -272,7 +272,7 @@
     <string name="notification_filter_settings_greeting"><![CDATA[வணக்கம்! அறிவிப்பு வடிகட்டி அமைப்புகளுக்கு வரவேற்கிறோம்.\nசுற்றிக்காட்ட தொடர்வதற்கு <b>எங்கும் தட்டவும்</b>.]]></string>
     <string name="notification_filter_settings_showcase_msg1"><![CDATA[இது வடிகட்டிச் சுவிட்ச் ஆகும், அறிவிப்புகளில் சுவிட்ச் இருக்கும்போது <b>வடிகட்டப்படும்</b>]]></string>
     <string name="notification_filter_settings_showcase_msg2"><![CDATA[நீங்கள் இங்கிருந்து <b>விதிவிலக்குகளைத்</b> திறந்து, அறிவிப்புகளை வடிகட்ட விரும்பாத பயன்பாடுகளைச் சேர்க்கலாம்]]></string>
-    <string name="notification_filter_settings_showcase_msg3"><![CDATA[<b>சிக்னல்</b> பயன்பாட்டில்]]> புதிய செய்தியைப் பெறும்போது அறிவிப்பைப் பெற விரும்புகிறீர்கள்</string>
+    <string name="notification_filter_settings_showcase_msg3"><![CDATA[<b>சிக்னல்</b> பயன்பாட்டில் புதிய செய்தியைப் பெறும்போது அறிவிப்பைப் பெற விரும்புகிறீர்கள்]]></string>
     <string name="notification_filter_settings_showcase_msg4"><![CDATA[நீங்கள் <b>விதிவிலக்கை</b> திறந்து, பட்டியலிலிருந்து சிக்னல் பயன்பாட்டைக் கண்டறிந்து, அதற்கு அடுத்துள்ள <b>சுவிட்சை இயக்கவும்</b>, அவ்வளவுதான்!]]></string>
     <string name="notification_filter_settings_showcase_msg5"><![CDATA[நாள் முழுவதும் அறிவிப்புகளால் நீங்கள் திசைதிருப்பப்பட மாட்டீர்கள் என்பது நல்லது, ஆனால் சில நாட்களாக நீங்கள் என்ன அறிவிப்புகளை வைத்திருந்தீர்கள் என்பதைப் பார்க்க ஃபர்ஆனைச் சரிபார்க்க மறந்துவிடலாம்! 🙁]]></string>
     <string name="notification_filter_settings_showcase_msg6"><![CDATA[கவலைப்பட வேண்டாம் 😀 இங்கிருந்து <b>எனக்குத் தெரிவி</b>ஐ அமைக்கலாம்!, ஆன் செய்யும்போது, <b>நீங்கள் அமைத்த நேரத்தில்</b> உங்கள் அறிவிப்புகளைச் சரிபார்க்க வருமாறு உங்களுக்குத் தெரிவிக்கப்படும்]]></string>
@@ -304,4 +304,25 @@
     <string name="crash_reports_channel">விபத்து அறிக்கைகள்</string>
     <string name="crash_reports_channel_description">பயன்பாட்டு செயலிழப்பு அறிக்கைகளுக்கான அறிவிப்புகள்</string>
     <string name="verify_no_existing_issue_checkbox_message">இந்தச் சிக்கல் ஏற்கனவே உள்ளதா எனச் சரிபார்த்ததையும், அதே பிழையுடன் திறந்த சிக்கல்கள் எதுவும் கண்டறியப்படவில்லை என்பதையும் உறுதிப்படுத்துகிறேன்</string>
+    <string name="notification_filter_schedule">வடிகட்டி அட்டவணை</string>
+    <string name="notification_filter_schedule_description">நீங்கள் தேர்வு செய்யும் நாட்கள் மற்றும் நேரங்களில் மட்டும் அறிவிப்புகளை வடிகட்டவும்</string>
+    <string name="notification_filter_schedule_start_time">தொடக்க நேரம்</string>
+    <string name="notification_filter_schedule_end_time">முடிவு நேரம்</string>
+    <string name="notification_filter_schedule_all_day">தொடக்க மற்றும் முடிவு நேரங்கள் ஒரே மாதிரியாக இருக்கும் போது வடிகட்டி நாள் முழுவதும் செயலில் இருக்கும்</string>
+    <string name="notification_filter_schedule_no_days">எந்த நாட்களும் தேர்ந்தெடுக்கப்படவில்லை, அறிவிப்புகள் வடிகட்டப்படாது</string>
+    <string name="grayscale_state_color">நிறம்</string>
+    <string name="grayscale_state_leave_as_is">அப்படியே வைத்திருங்கள்</string>
+    <string name="grayscale_system_apps_hint">சிச்டம் ஆப்ச் (ஆப் ச்விட்சர் மற்றும் சேர் பட்டியல் போன்றவை) திரையை இயல்பாகவே வைத்திருக்கும், எனவே நீங்கள் ஆப்சுக்கு இடையில் மாறும்போது அவை வண்ண வடிப்பானைப் புரட்டாது.</string>
+    <string name="change_default_launcher">இயல்புநிலை துவக்கியை மாற்றவும்</string>
+    <string name="change_default_launcher_sub">ஃபர்ஆனை உங்கள் லாஞ்சராகப் பயன்படுத்த, சிச்டம் அமைப்புகளில் ஃபர்ஆனைத் தேர்ந்தெடுக்கவும் அல்லது மீண்டும் மாற மற்றொரு லாஞ்சரைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="delayed_unlock">திறந்த பிறகு நேரந்தவறுகை</string>
+    <string name="delayed_unlock_sub">உங்கள் மொபைலைத் திறந்த பிறகு சில நொடிகள் காத்திருக்கவும்</string>
+    <string name="running_services_channel_name">பின்னணி சேவைகள்</string>
+    <string name="running_services_channel_description">ஃபர்ஆன் சேவைகள் பின்னணியில் இயங்கும் போது காட்டப்பட்டது</string>
+    <string name="running_services_notification_title">ஃபர்ஆன் செயலில் உள்ளார்</string>
+    <string name="running_services_notification_text">இயங்குகிறது: %1$s</string>
+    <string name="running_service_accessibility">அணுகல் பணி</string>
+    <string name="running_service_notification_filter">அறிவிப்பு வடிகட்டி</string>
+    <string name="running_service_time_limiter">பயன்பாட்டு நேர வரம்பு</string>
+    <string name="are_you_sure_you_want_to_delete_all_filtered_notifications">வடிகட்டப்பட்ட அனைத்து அறிவிப்புகளையும் நிச்சயமாக நீக்க விரும்புகிறீர்களா?</string>
 </resources>
