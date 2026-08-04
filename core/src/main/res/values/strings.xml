@@ -27,7 +27,7 @@
     <string name="category_news">News</string>
     <string name="category_other">Other</string>
     <string name="total_usage">Total usage:</string>
-    <string name="package_not_found_error">Unknown error: are sure the app is installed?</string>
+    <string name="package_not_found_error">Unknown error: Make sure the app is installed?</string>
     <string name="search">Search</string>
     <string name="close_search">Close search</string>
     <string name="open_search_field">Open search field</string>
@@ -64,7 +64,7 @@
     <string name="grayscale_state_color">Color</string>
     <string name="grayscale_state_leave_as_is">Keep as is</string>
     <string name="grayscale_system_apps_hint">System apps (like the app switcher and share menu) keep the screen as is by default, so they don\'t flip the color filter while you are switching between apps.</string>
-    <string name="grayscale_onboarding_message">One of the ways apps compete for your time and attention is through colors, using grayscale Farhan can disable colors for selected apps when you lunch them eliminating their effect on you!</string>
+    <string name="grayscale_onboarding_message">One of the ways apps compete for your time and attention is through colors, using grayscale Farhan can disable colors for selected apps when you launch them eliminating their effect on you!</string>
     <string name="on_boarding_image_description">Onboarding image</string>
     <string name="next">Next</string>
     <string name="enabled">Enabled</string>
@@ -96,7 +96,7 @@
     <string name="get_started">Get Started</string>
     <string name="skip_now">Skip Now</string>
     <string name="no_internet_permission">No Internet Permission!</string>
-    <string name="no_internet_permission_desc">Farhan does not connect to the internet in anyway, in fact it does\'nt even have an internet permission, so your data stays on your phone</string>
+    <string name="no_internet_permission_desc">Farhan does not connect to the internet in anyway, in fact it doesn\'t even have internet permission, so your data stays on your phone</string>
     <string name="open_source">Open Source</string>
     <string name="open_source_desc">Anyone can see how Farhan works by viewing the source code on GitHub</string>
     <string name="use_farhan_be_farhan">Use Farhan, Be Farhan!</string>
@@ -129,7 +129,6 @@
     <string name="reason_know_how_much_you_scroll">Know How much you scroll and how much items are on screen.</string>
     <string name="reason_display_warning_if_infinite_scroll_detected">Display a message if we detect infinite scrolling.</string>
     <string name="reason_know_if_app_in_whitelist">Know if current app is in the affected apps list or not</string>
-
     <string-array name="tips">
         <item>@string/productivity_tip1</item>
         <item>@string/notification_filter_exception_tip</item>
@@ -231,7 +230,6 @@
     <string name="msg_isb_timout_sub">Select a message to show after scrolling limit is reached.</string>
     <string name="msg_random">Random message</string>
     <string name="selected_msg">Selected message: %s</string>
-
     <string name="time_up_gentle_nudge">Hey there! Feeling good about taking a break?</string>
     <string name="time_up_direct">Time flies! You\'ve reached your limit. Ready to switch gears?</string>
     <string name="time_up_wellbeing">Time for a breather! How about giving your eyes and mind a rest?</string>
@@ -260,7 +258,6 @@
     <string name="notification_filter_settings_showcase_msg4"><![CDATA[You can open <b>Exception</b>, find the Signal app from the list and <b>turn on the switch</b> next to it and that\'s it!]]></string>
     <string name="notification_filter_settings_showcase_msg5"><![CDATA[Its good that you won\'t be distracted by notifications throughout the day, but sometimes you can forget to check Farhan to see what notifications you had for days! 🙁]]></string>
     <string name="notification_filter_settings_showcase_msg6"><![CDATA[Don\'t worry 😀 you can setup <b>Notify me</b> from here!, when turned on you will be notified at a <b>time you set</b> to come check your notifications]]></string>
-
     <string-array name="time_up_messages">
         <item>@string/infinite_scroll_dialog_message</item>
         <item>@string/time_up_gentle_nudge</item>
@@ -272,7 +269,6 @@
         <item>@string/time_up_question</item>
         <item>@string/time_up_reminder</item>
     </string-array>
-
     <string name="usage_for_today">Usage for today</string>
     <string name="usage_for_yesterday">Usage for yesterday</string>
     <string name="place_widget">Place widget</string>
@@ -325,7 +321,6 @@
     <string name="delay_message_sub">Choose a message to show during the delay</string>
     <string name="delayed_unlock">Delay after unlock</string>
     <string name="delayed_unlock_sub">Wait a few seconds after unlocking your phone before you can use it</string>
-
     <array name="delayed_launch_messages">
         <item>@string/take_deep_breath</item>
         <item>@string/bananas_are_yellow</item>
@@ -347,7 +342,7 @@
     <string name="ignore_this_screen_unkown">If you don\'t know what this screen is, you can ignore it and tap on the Close button at the bottom</string>
     <string name="crash_reports_channel_id" translatable="false">CRASH_REPORTS_CHANNEL</string>
     <string name="crash_reports_channel">Crash reports</string>
-    <string name="crash_reports_channel_description" >Notifications for app crash reports</string>
+    <string name="crash_reports_channel_description">Notifications for app crash reports</string>
     <string name="verify_no_existing_issue_checkbox_message">I confirm that i have checked if the issue already exists and have not found any open issues with the same error
     </string>
     <string name="running_services_channel_id" translatable="false">running_services</string>
