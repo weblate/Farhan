@@ -306,5 +306,4 @@
     <string name="crash_reports_channel">بلاغات توقف التطبيق</string>
     <string name="delayed_unlock">تأخير بعد فتح قفل الشاشة</string>
     <string name="time_limiter_notification_channel_name">قناة إشعارات مؤقت التطبيقات</string>
-
 </resources>
