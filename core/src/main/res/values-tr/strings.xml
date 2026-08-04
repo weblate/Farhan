@@ -118,7 +118,6 @@
     <string name="reason_know_how_much_you_scroll">Ne kadar kaydırdığınızı ve ekranda kaç öğe olduğunu bilme.</string>
     <string name="reason_display_warning_if_infinite_scroll_detected">Sonsuz kaydırma tespit edersek bir mesaj gösterme.</string>
     <string name="reason_know_if_app_in_whitelist">Mevcut uygulamanın etkilenen uygulamalar listesinde olup olmadığını bilme</string>
-
     <string-array name="tips">
         <item>@string/productivity_tip1</item>
         <item>@string/notification_filter_exception_tip</item>
@@ -220,7 +219,6 @@
     <string name="msg_isb_timout_sub">Kaydırma sınırına ulaşıldıktan sonra gösterilecek bir mesaj seçin.</string>
     <string name="msg_random">Rastgele mesaj</string>
     <string name="selected_msg">Seçilen mesaj: %s</string>
-
     <string name="time_up_gentle_nudge">Selam! Bir mola vermek iyi hissettiriyor mu?</string>
     <string name="time_up_direct">Zaman ne çabuk geçiyor! Sınırınıza ulaştınız. Başka bir şeye geçmeye hazır mısınız?</string>
     <string name="time_up_wellbeing">Nefes alma zamanı! Gözlerinizi ve zihninizi dinlendirmeye ne dersiniz?</string>
@@ -249,7 +247,6 @@
     <string name="notification_filter_settings_showcase_msg4"><![CDATA[<b>İstisnalar</b>\'ı açabilir, listeden Signal uygulamasını bulabilir ve yanındaki <b>anahtarı açabilirsiniz</b>, hepsi bu kadar!]]></string>
     <string name="notification_filter_settings_showcase_msg5"><![CDATA[Gün boyunca bildirimlerle dikkatinizin dağılmaması güzel, ama bazen günlerce hangi bildirimleri aldığınızı görmek için Farhan\'ı kontrol etmeyi unutabilirsiniz! 🙁]]></string>
     <string name="notification_filter_settings_showcase_msg6"><![CDATA[Endişelenmeyin 😀 Buradan <b>Beni bilgilendir</b>\'i kurabilirsiniz! Açık olduğunda, bildirimlerinizi kontrol etmeniz için <b>belirlediğiniz bir saatte</b> bilgilendirileceksiniz]]></string>
-
     <string-array name="time_up_messages">
         <item>@string/infinite_scroll_dialog_message</item>
         <item>@string/time_up_gentle_nudge</item>
@@ -261,7 +258,6 @@
         <item>@string/time_up_question</item>
         <item>@string/time_up_reminder</item>
     </string-array>
-
     <string name="usage_for_today">Bugünkü kullanım</string>
     <string name="usage_for_yesterday">Dünkü kullanım</string>
     <string name="place_widget">Widget yerleştir</string>
@@ -312,7 +308,6 @@
     <string name="you_attempted_to_launch_this_app_times">Son 24 saat içinde %s uygulamasını %d kez başlatmaya çalıştınız</string>
     <string name="delay_message">Mesaj</string>
     <string name="delay_message_sub">Gecikme sırasında gösterilecek bir mesaj seçin</string>
-
     <array name="delayed_launch_messages">
         <item>@string/take_deep_breath</item>
         <item>@string/bananas_are_yellow</item>
@@ -334,7 +329,7 @@
     <string name="ignore_this_screen_unkown">Bu ekranın ne olduğunu bilmiyorsanız, onu yok sayabilir ve alttaki Kapat düğmesine dokunabilirsiniz</string>
     <string name="crash_reports_channel_id" translatable="false">CRASH_REPORTS_CHANNEL</string>
     <string name="crash_reports_channel">Çökme raporları</string>
-    <string name="crash_reports_channel_description" >Uygulama çökme raporları için bildirimler</string>
+    <string name="crash_reports_channel_description">Uygulama çökme raporları için bildirimler</string>
     <string name="verify_no_existing_issue_checkbox_message">Sorunun zaten mevcut olup olmadığını kontrol ettiğimi ve aynı hatayla ilgili açık bir sorun bulamadığımı onaylıyorum
     </string>
 </resources>
