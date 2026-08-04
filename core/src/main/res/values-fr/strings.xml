@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="one_hour">1H</string>
-    <string name="check_filtered_notifications">Vérifiez vos notifications filtrées</string>
-    <string name="you_have_unchecked_filtered_notifications">Vous avez filtré des notifications que vous n\'avez pas vérifiées</string>
+    <string name="check_filtered_notifications">Consultez vos notifications filtrées</string>
+    <string name="you_have_unchecked_filtered_notifications">Vous avez des notifications filtrées pas encore lues</string>
     <string name="back">Retour</string>
     <string name="notifications_filter_settings">Paramètres du filtre de notification</string>
     <string name="notifications">Notifications</string>
@@ -31,7 +31,7 @@
     <string name="category_productivity">Productivité</string>
     <string name="category_video">Vidéo</string>
     <string name="category_news">Actualités</string>
-    <string name="package_not_found_error">Erreur inconnue : êtes-vous sûr que l\'application est installée ?</string>
+    <string name="package_not_found_error">Erreur inconnue : assurez-vous que l\'application soit installée.</string>
     <string name="search">Recherche</string>
     <string name="close_search">Fermer la recherche</string>
     <string name="notify_me_channel">Me notifier</string>
@@ -83,8 +83,8 @@
     <string name="appear_on_top_permission_needed_message">Farhan a besoin de la permission pour afficher par-dessus d\'autres applications pour vous aider à sortir du défilement infini</string>
     <string name="accessibility_permission_needed_message">Farhan a besoin du service d\'accessibilité pour pouvoir :</string>
     <string name="one_more_thing">Encore une chose !</string>
-    <string name="infinite_scroll_onboarding_message">Le défilement infini est une technique utilisée par les applications pour vous afficher du contenu sans arrêt ce qui réduit votre contrôle sur votre temps, Farhan peut détecter lorsque vous êtes coincé dans un défilement infini et vous suggérer de quitter l\'application !</string>
-    <string name="notification_filter_onboarding_message">Les notifications sont comme des alarmes sauf qu\'elles peuvent vous distraire à n\'importe quel moment, Farhan peut éliminer cette distraction en filtrant les notifications pour que vous ne soyez pas distrait, vous pouvez exclure des applications importantes dont vous voulez recevoir les notifications et le reste sera filtré et vous pourrez lancer l\'application et voir les notifications à n\'importe quel moment !</string>
+    <string name="infinite_scroll_onboarding_message">Le défilement infini est une technique utilisée par les applications pour vous afficher du contenu sans arrêt ce qui réduit votre contrôle sur votre temps, Farhan peut détecter lorsque vous êtes dans un défilement infini et vous suggérer de quitter l\'application !</string>
+    <string name="notification_filter_onboarding_message">Les notifications sont comme des alarmes sauf qu\'elles peuvent vous distraire à n\'importe quel moment, Farhan peut éliminer cette distraction en filtrant les notifications, vous pouvez exclure des applications importantes dont vous voulez recevoir les notifications et le reste sera filtré et vous pourrez lancer l\'application et voir les notifications à n\'importe quel moment !</string>
     <string name="notification_permission_not_granted">La permission des notifications n\'a pas été donnée :(</string>
     <string name="notification_filter_needed_message">Farhan a besoin de l\'accès aux notifications pour que le filtre de notifications fonctionne</string>
     <string name="no_notifications">Pas de notifications</string>
@@ -222,11 +222,11 @@
     <string name="open_github">Ouvrir GitHub</string>
     <string name="continuee">Continuer</string>
     <string name="running_services_channel_name">Services d\'arrière-plan</string>
-    <string name="running_services_notification_title">Farhan est actif</string>
+    <string name="running_services_notification_title">Farhan est activé</string>
     <string name="running_services_notification_text">En cours d\'exécution : %1$s</string>
     <string name="running_service_accessibility">Service d\'accessibilité</string>
     <string name="secure_settings_permission_sub_msg">Farhan a besoin de la permission de modifier les paramètres sécurisés pour pouvoir mettre l\'écran en niveaux de gris pour vous</string>
-    <string name="grant_secure_permission_manually_msg">Ou accorder la permission manuellement en utilisant ADB sur votre PC, ne vous inquiétez pas ce processus est fait une seule fois et prend quelques minutes</string>
+    <string name="grant_secure_permission_manually_msg">Ou accordez la permission manuellement en utilisant ADB sur votre PC, ne vous inquiétez pas ce processus est fait une seule fois et prend quelques minutes</string>
     <string name="cache_usage_data">Cache des données d\'utilisation</string>
     <string name="cache_usage_data_description">Mettre en cache les données d\'utilisation pour réduire le temps d\'attente la prochaine fois que vous regardez la même journée</string>
     <string name="auto_cache_usage_data_description">Récupérer automatiquement les données d\'utilisation en arrière-plan à chaque fin de journée</string>
