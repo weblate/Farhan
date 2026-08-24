@@ -111,7 +111,7 @@
     <string name="category_video">ஒளிதோற்றம்</string>
     <string name="category_news">செய்தி</string>
     <string name="category_other">மற்றொன்று</string>
-    <string name="package_not_found_error">தெரியாத பிழை: பயன்பாடு நிறுவப்பட்டிருப்பது உறுதி?</string>
+    <string name="package_not_found_error">தெரியாத பிழை: பயன்பாடு நிறுவப்பட்டிருப்பது உறுதியா?</string>
     <string name="search">தேடல்</string>
     <string name="close_search">தேடலை மூடு</string>
     <string name="notifications_filter_settings">அறிவிப்பு வடிகட்டி அமைப்புகள்</string>
@@ -126,7 +126,7 @@
     <string name="take_me_out_of_here">என்னை இங்கிருந்து வெளியே அழைத்துச் செல்லுங்கள்</string>
     <string name="enable_grayscale_for_white_listed_apps">பாதிக்கப்பட்ட பயன்பாடுகளுக்கு கிரேச்கேலை இயக்கவும்</string>
     <string name="white_lited_apps">பாதிக்கப்பட்ட பயன்பாடுகள்</string>
-    <string name="grayscale_onboarding_message">உங்கள் நேரத்திற்கும் கவனத்திற்கும் பயன்பாடுகள் போட்டியிடும் வழிகளில் ஒன்று வண்ணங்கள் வழியாகும், கிரேச்கேல் ஃபர்ஆனைப் பயன்படுத்துவது தேர்ந்தெடுக்கப்பட்ட பயன்பாடுகளுக்கான வண்ணங்களை முடக்கலாம், அவற்றை உங்கள் மதிய உணவு உங்கள் மீதான அவற்றின் விளைவை நீக்குகிறது!</string>
+    <string name="grayscale_onboarding_message">உங்கள் நேரத்திற்கும் கவனத்திற்கும் பயன்பாடுகள் போட்டியிடும் வழிகளில் ஒன்று வண்ணங்கள் வழியாகும், கிரேச்கேல் ஃபர்ஆனைப் பயன்படுத்துவது தேர்ந்தெடுக்கப்பட்ட பயன்பாடுகளுக்கான வண்ணங்களை முடக்கலாம், அவற்றை நீங்கள் துவக்கும்போது உங்கள் மீதான அவற்றின் விளைவை நீக்குகிறது!</string>
     <string name="disabled">முடக்கப்பட்டது</string>
     <string name="on_boarding_image_description">ஆன் போர்டிங் படம்</string>
     <string name="enabled">இயக்கப்பட்டது</string>
@@ -227,7 +227,7 @@
     <string name="seconds">கள்</string>
     <string name="count_down_after_limit_isb">வரம்பு அடைந்த பிறகு கவுண்டன்</string>
     <string name="count_down_after_limit_sub">ச்க்ரோலிங் வரம்பை அடைந்த பிறகு எச்சரிக்கை உரையாடலை சில நொடிகளுக்கு தள்ளுபடி செய்வதைத் தடுக்கவும்</string>
-    <string name="msg_isb_timout">செய்தி</string>
+    <string name="msg_isb_timout">தகவல்</string>
     <string name="msg_isb_timout_sub">ச்க்ரோலிங் வரம்பை அடைந்த பிறகு காண்பிக்க ஒரு செய்தியைத் தேர்ந்தெடுக்கவும்.</string>
     <string name="msg_random">சீரற்ற செய்தி</string>
     <string name="selected_msg">தேர்ந்தெடுக்கப்பட்ட செய்தி: %s</string>
@@ -285,7 +285,7 @@
     <string name="bananas_are_yellow">வாழைப்பழம் மஞ்சள்!</string>
     <string name="look_around_you">உங்களைச் சுற்றிப் பாருங்கள்</string>
     <string name="you_attempted_to_launch_this_app_times">கடந்த 24 மணிநேரத்திற்குள் %s பயன்பாட்டை %d முறை தொடங்க முயற்சித்தீர்கள்</string>
-    <string name="delay_message">செய்தி</string>
+    <string name="delay_message">தகவல்</string>
     <string name="delay_message_sub">தாமதத்தின் போது காட்ட ஒரு செய்தியைத் தேர்ந்தெடுக்கவும்</string>
     <string name="contact_channels">தொடர்பு:</string>
     <string name="linkedin">இணைப்பின்னுள்</string>
